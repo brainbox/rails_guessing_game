@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  the_number: 
+  your_guess: 
+  won: 
+
+two:
+  the_number: 
+  your_guess: 
+  won: 
